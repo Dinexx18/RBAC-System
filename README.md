@@ -2,17 +2,24 @@
 ## RBAC System - User & Role Management Application
 This is a Role-Based Access Control (RBAC) system built with React, Material UI, and local storage for storing roles and users. It allows for managing user roles, permissions, and users in a system.
 
-Features:
+## Features:
 Role Management: Add, edit, and delete roles.
+
 User Management: Add and delete users, and assign roles.
+
+
 Credentials-based Login Page.
+
 Snackbar notifications for success or error messages.
-Table of Contents:
+
+##Table of Contents:
+
 Prerequisites
 Installation
 Project Structure
 Steps to Implement
 Credentials Used for Login
+
 Running the App
 License
 Prerequisites:
