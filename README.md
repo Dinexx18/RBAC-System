@@ -12,7 +12,7 @@ Credentials-based Login Page.
 
 Snackbar notifications for success or error messages.
 
-##Table of Contents:
+## Table of Contents:
 
 Prerequisites
 Installation
